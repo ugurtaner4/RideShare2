@@ -1,0 +1,56 @@
+[
+  {
+    "TravelTravelId": "d314cdad-c491-4fc7-a926-625f2ef412c5",
+    "SourceLocation": 20,
+    "TargetLocation": 45,
+    "Date": "2020-03-08T18:43:31.347Z",
+    "Description": "string",
+    "AvailableSeat": 2,
+    "IsPublish": false
+  },
+  {
+    "TravelId": "a67b57fd-a02d-4015-a417-dfbe4adf1641",
+    "SourceLocation": 20,
+    "TargetLocation": 60,
+    "Date": "2020-03-08T18:43:31.347Z",
+    "Description": "string",
+    "AvailableSeat": 2,
+    "IsPublish": true
+  },
+  {
+    "TravelId": "45bfb697-c814-4099-83e6-dac4b3d89c96",
+    "SourceLocation": 23,
+    "TargetLocation": 47,
+    "Date": "2020-03-08T18:43:31.347Z",
+    "Description": "string",
+    "AvailableSeat": 2,
+    "IsPublish": true
+  },
+  {
+    "TravelId": "25c3d838-f2bf-43f0-9645-abd9692d10cd",
+    "SourceLocation": 50,
+    "TargetLocation": 20,
+    "Date": "2020-03-08T18:45:28.757Z",
+    "Description": "string",
+    "AvailableSeat": 3,
+    "IsPublish": false
+  },
+  {
+    "TravelId": "1ba94173-f471-4324-9f52-d525ea65b394",
+    "SourceLocation": 55,
+    "TargetLocation": 20,
+    "Date": "2020-03-08T18:45:28.757Z",
+    "Description": "string",
+    "AvailableSeat": 4,
+    "IsPublish": true
+  },
+  {
+    "TravelId": "e3dfb916-7a5f-4a0b-a858-756f86a4dd99",
+    "SourceLocation": 37,
+    "TargetLocation": 14,
+    "Date": "2020-03-08T18:45:28.757Z",
+    "Description": "string",
+    "AvailableSeat": 4,
+    "IsPublish": true
+  }
+]

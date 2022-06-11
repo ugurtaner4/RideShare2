@@ -1,0 +1,12 @@
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\bin\Debug\netstandard2.0\RideShare.Business.deps.json
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\bin\Debug\netstandard2.0\RideShare.Business.dll
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\bin\Debug\netstandard2.0\RideShare.Business.pdb
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\obj\Debug\netstandard2.0\RideShare.Business.csproj.CoreCompileInputs.cache
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\obj\Debug\netstandard2.0\RideShare.Business.AssemblyInfoInputs.cache
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\obj\Debug\netstandard2.0\RideShare.Business.AssemblyInfo.cs
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\obj\Debug\netstandard2.0\RideShare.Business.dll
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\obj\Debug\netstandard2.0\RideShare.Business.pdb
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\obj\Debug\netstandard2.0\RideShare.Business.csprojAssemblyReference.cache
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\bin\Debug\netstandard2.0\RideShare.Models.dll
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\bin\Debug\netstandard2.0\RideShare.Models.pdb
+C:\Users\TCUTANER\source\repos\RideShare\RideShare.Business\obj\Debug\netstandard2.0\RideShare.Business.csproj.CopyComplete
